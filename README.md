@@ -1,2 +1,2 @@
 # hangman
-A hangman game in python, in which you to have the words
+A hangman game in python, in which you have to guess the words
